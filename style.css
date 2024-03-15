@@ -27,3 +27,15 @@ ul a{
     font-size: 18px;
     text-decoration: none;
 }
+
+.hero-section{
+    display: flex;
+    background-color:#1F2937;
+
+}
+.hero-text, .hero-placeholder{
+    margin: 20px;
+    padding: 20px;
+    color: white;
+}
+
