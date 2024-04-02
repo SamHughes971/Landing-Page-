@@ -105,8 +105,12 @@ ul a{
     border: 2px red solid;
 }
 .card-content h1{
-    margin-top: 20px;
+    margin-top: 50px;
+    margin-bottom: 30px;
     text-align: center;
+    font-size: 36px;
+    font-weight:bolder;
+    color: #1F2937;
 }
 .card-container{
     display: flex;
@@ -114,7 +118,7 @@ ul a{
 }
 
 .card{
-    background: lightblue;
+    
     width: 200px;
     height: 400px;
     margin: 20px;
@@ -123,5 +127,7 @@ ul a{
 .card-box{
     width: 200px;
     height: 200px;
-    border: lightcoral 2px solid;
+    border: rgba(53, 53, 209, 0.842) 4px solid;
+    border-radius: 20px;
+    margin-bottom: 20px;
 }
