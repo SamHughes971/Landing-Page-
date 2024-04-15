@@ -202,3 +202,12 @@ ul a{
     border: 1px solid white;
     border-radius: 10px;
 }
+
+footer{
+    background-color:#1F2937;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
